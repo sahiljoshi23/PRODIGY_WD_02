@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-Stopwatch Web Application
+Stopwatch Web Application                                                                                                                                             
 Overview:
 This Stopwatch Web Application is a simple yet effective tool built using HTML, CSS, and JavaScript. It provides users with a digital stopwatch functionality, allowing them to easily track time intervals.
 
